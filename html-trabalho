@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>PORT X C </title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        h1 {
+            text-align: center;
+            padding: black 50px;
+            background-color: burlywood;
+        }
+
+        P {
+            text-align: 500px;
+
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1><em> Diferenças entre Portugol e a Liguagem C </em> </h1>
+    <br>
+    <br>
+
+    <div>
+        <p> Hoje vamos especificar duas linguagens que são elas : </p>
+
+        <button> PORTUGOL <BR>
+            LINGUAGEM ' C ' </button>
+
+        <br>
+        <br>
+        <br>
+
+        <ol>
+            <li>Necessário colocar ';' no final de todo processo em linguagem C. </li>
+            <br>
+            <li> Eu notei algumas diferenças de portugol para a linguagem C <br> no caso o início de um código no C é
+                necessário especificar as <br> bibliotecas que serão utilizadas de acordo com a necessidade e a <br>
+                primeira
+                função que ao invés de ser "programa" e "função" <br> ser utilizado  "int main ()". </li>
+            <br>
+            <li> Na linguagem C é necessário colocar ";" no final de cada linha <br> contendo tags, outra mudança notável
+                também é a declaração <br> das variáveis que há uma diferença (real = float, inteiro = int, <br> cadeia = char[]),
+                para escrever algo no portugol e utilizado a tag <br>"escreva" nesse caso utilizamos "printf" e para ler o
+                conteúdo <br> que foi escrito é "leia" no caso de C "scanf", no "scanf" é preciso <br> especificar o tipo da
+                variável utilizado a sintaxe <br> ("%d" e "%i" = inteiro, "%f" = float, "%s" = char), as funções de <br> repetição
+                são representadas da seguinte forma, "para" no C é <br> escrito por "for" e tem a mesma sintaxe, "enquanto" é <br>
+                representado por "while" que também tem a mesma sintaxe, <br> "se" e "senao" seria o "if" e "else" </li>
+            <br>
+    
+        </ol>
+        <button> P A R TI CI P A N T E S </button>
+
+        <h3>João Pedro <br>
+            Vinicius <br>
+            Diego <br>
+            Nathalia <br>
+            Lucas </h3>
+</body>
+
+</html>
